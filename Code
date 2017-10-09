@@ -39,13 +39,13 @@ int main() {
     
     
     
-    if (finalguess == 1 ) 
+    if (finalguess == 1 ) // This checks to see what the players guess was, 1 means the player guessed higher
     {
     cout << "You Picked Higher" "\n" ; 
     }
     else if (pickcard2 < pickcard1) 
       {
-        cout << "You Win" "\n";
+        cout << "You Win" "\n"; // prints higher on the screen if the card is higher then the first card and they selected 1 (higher)
       }
   cout << pickcard2 << "\n";
   
