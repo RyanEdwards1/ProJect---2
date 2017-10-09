@@ -1,12 +1,12 @@
-#include <iostream> /*Libary*/
+#include <iostream> //Libary
 #include <time.h>
 
-using namespace std; /**/
+using namespace std;  // Makes functions with the same names within different libraries distinguishable
 
-int pickcard ()
+int pickcard // The function that contains the code that generates a random number between 1 and 13
 {
   int r;
-   r=rand()%13+1;/*Picks Random Number between 1 and max Number*/
+   r=rand()%13+1; //Picks Random Number between 1 and max Number
    
    return r; 
 }
@@ -23,11 +23,11 @@ int main() {
   
   
 
-  srand(time(NULL));
+  srand(time(NULL)); // Seeds the random number generator based on the current time
   
   int pickcard1 = pickcard();
     
-  cout << pickcard1 << "\n";/*Console Out put i which is the random number*/
+  cout << pickcard1 << "\n";   //Console Out put i which is the random number
   
   cout << "     1 = Higher   2 = Lower" "\n";
   
@@ -48,5 +48,14 @@ int main() {
         cout << "You Win" "\n";
       }
   cout << pickcard2 << "\n";
-    
+  
+        if (finalguess == 2 ) 
+    {
+    cout << "You Picked lower" "\n" ; 
+    }
+    else if (pickcard2 > pickcard1) 
+      {
+        cout << "You Win" "\n";
+      }
+  cout << pickcard2 << "\n";
 }
