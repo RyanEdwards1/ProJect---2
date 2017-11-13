@@ -4,8 +4,7 @@
 
 ### User Storys:
   
- #### As the user I want to be able to choose higher or lower
-  
+ #### As the user I want to be able to choose higher or lower 
  #### As the user I want to be able to see when I win or lose
   
  #### As the user I want to be able to see my score 
