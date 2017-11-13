@@ -1,7 +1,7 @@
 # Project-2
 
-#### In this game, The user will be shown a number between 1 and 13 and they will have to guess what the next card will be either higher or  lower. If the user guesses correctly they will be awarded with a prize and if they guess incorrectly then the game will end 
 ### Description:
+#### In this game, The user will be shown a number between 1 and 13 and they will have to guess what the next card will be either higher or  lower. If the user guesses correctly they will be awarded with a prize and if they guess incorrectly then the game will end 
 
 ### User Storys:
   
