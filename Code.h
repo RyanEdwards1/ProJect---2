@@ -31,7 +31,7 @@ main() { // Main function
   
     	cout << card1 << "\n"; // Prints value of card1
     
-    	cout << "Higher or Lower? 1 for Higher, 2 for Lower" << "\n"; // --
+    	cout <<1 for Higher, 2 for Lower" << "\n"; // --
     
     	int card2 = PickCard(); // Declares a new variable called card2 with a value decided by the random number generator
   
