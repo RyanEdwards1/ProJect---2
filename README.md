@@ -14,7 +14,7 @@
 ### Flow Chart:
 ![flowchart p2](https://user-images.githubusercontent.com/31927415/32719636-f9d91864-c858-11e7-8c81-34974b31c6e7.JPG)
 
-### TimeLine
+### TimeLine Of Progress
 ![capture](https://user-images.githubusercontent.com/31927415/33025223-4e1cf2cc-ce05-11e7-84cc-089e5ae35428.JPG)
 
 ### The language that i used was C++
@@ -23,4 +23,6 @@
 
 
 ### The IDE That i Used Was Repl.it
+#### Repl.it is a online IDE that has a live preview of the outcome of the code that i have written so i an see any errors in present time and it also helps with this high low game because the game needs a input to continue so i can also enter that to find any errors or to complete the game in live time. 
+#### It also saves your code to the cloud so you can access it at any time and you can also save it to your PC or GitHub aswell. 
 
