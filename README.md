@@ -17,3 +17,10 @@
 ### TimeLine
 ![capture](https://user-images.githubusercontent.com/31927415/33025223-4e1cf2cc-ce05-11e7-84cc-089e5ae35428.JPG)
 
+### The language that i used was C++
+#### ain Reason that i used C++ for my High Low game is because Firstly it is the language that i have the most experience in so i felt the most confident using it. Secondly it upports functions of high level programming languages, such as scripting for software applications. C++ can be used for many differnet things so growing my knowleadge now with basic code in the langauge will help me later on down the road.
+
+
+
+### The IDE That i Used Was Repl.it
+
