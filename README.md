@@ -27,4 +27,4 @@
 #### It also saves your code to the cloud so you can access it at any time and you can also save it to your PC or GitHub aswell. 
 
 ### Debugging Process
-With the help of the live view on Repl.it i managed to debug my code while i was doing line by line so that if i ran into any problems i was able to quickly fix them. One Example of a Error i had was i forgot to end a line of code with ';' and i didnt no what the problem was but i knew it was in my latest line of code as i had just typed it and by looking over my previous lines of code i saw the error quickly.
+#### With the help of the live view on Repl.it i managed to debug my code while i was doing line by line so that if i ran into any problems i was able to quickly fix them. One Example of a Error i had was i forgot to end a line of code with ';' and i didnt no what the problem was but i knew it was in my latest line of code as i had just typed it and by looking over my previous lines of code i saw the error quickly.
