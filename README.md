@@ -28,3 +28,6 @@
 
 ### Debugging Process
 #### With the help of the live view on Repl.it i managed to debug my code while i was doing line by line so that if i ran into any problems i was able to quickly fix them. One Example of a Error i had was i forgot to end a line of code with ';' and i didnt no what the problem was but i knew it was in my latest line of code as i had just typed it and by looking over my previous lines of code i saw the error quickly.
+
+### Evaluation 
+#### Overall the second project went alot better than the first project but i still had alot of problems with errors but with the debugging system in Repl.it i managed to get the program working in the end. It was my first time using a web based IDE. I liked using Repl.it alot as it had a live preview of your code on the right hand side and it would also tell you where the error has occurred which helped alot with the debugging of the code. I think that overall my game has met all the standerds set out from the start and has ticked all the boxes. It was also complete on time
