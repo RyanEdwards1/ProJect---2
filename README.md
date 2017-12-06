@@ -42,7 +42,7 @@
 ### In this sceen shot it is when the first card has been drawn and the user my picker higher or lower. The code used to make this work was: 
       cout << card1 << "\n"; // Prints value of card1
     
-    	cout <<1 for Higher, 2 for Lower" << "\n"; // --
+    	cout <<1 for Higher, 2 for Lower" << "\n"; 
     
 
 
