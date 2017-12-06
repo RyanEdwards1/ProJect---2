@@ -25,7 +25,16 @@
 #### It also saves your code to the cloud so you can access it at any time and you can also save it to your PC or GitHub aswell. 
 
 ### Implementation Of An Algorithm 
-![gfdsfb](https://user-images.githubusercontent.com/31927415/33656786-0cbd9554-da6f-11e7-815c-681f1639654e.JPG) cfczvfzzbvzbffffffffffff ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+![gfdsfb](https://user-images.githubusercontent.com/31927415/33656786-0cbd9554-da6f-11e7-815c-681f1639654e.JPG) 
+#### In This screen shot of ths start of the flow chart you can see that the first thing we need to do is shuffle the cards. The code that i used to do this was:   int PickCard() { // The function that generates a random number between 1 and 13
+  
+  int x; // Placehodler int to hold the card value
+  x = (rand()%13)+1; // The random number generator
+  
+  
+  return x; // Returns the result of the random number generator
+  
+} 
 
 
 
