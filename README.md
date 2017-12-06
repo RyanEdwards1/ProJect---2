@@ -28,18 +28,22 @@
 ![gfdsfb](https://user-images.githubusercontent.com/31927415/33656786-0cbd9554-da6f-11e7-815c-681f1639654e.JPG) 
 #### In This screen shot of ths start of the flow chart you can see that the first thing we need to do is shuffle the cards. The code that i used to do this was:   
 
-int PickCard() { // The function that generates a random number between 1 and 13
+    int PickCard() { // The function that generates a random number between 1 and 13
   
-  int x; // Placehodler int to hold the card value
-  x = (rand()%13)+1; // The random number generator
+      int x; // Placehodler int to hold the card value
+      x = (rand()%13)+1; // The random number generator
   
   
-  return x; // Returns the result of the random number generator
+      return x; // Returns the result of the random number generator
   
-} 
+      } 
 
 ![ghm](https://user-images.githubusercontent.com/31927415/33656952-b62a733c-da6f-11e7-8e2f-72790e6603a9.JPG)
-### In this sceen shot it is when the first card has been drawn and the user my picker higher or lower
+### In this sceen shot it is when the first card has been drawn and the user my picker higher or lower. The code used to make this work was: 
+      cout << card1 << "\n"; // Prints value of card1
+    
+    	cout <<1 for Higher, 2 for Lower" << "\n"; // --
+    
 
 
 ### Debugging Process
