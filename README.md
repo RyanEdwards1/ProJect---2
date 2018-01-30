@@ -23,6 +23,8 @@
 ### The IDE That i Used Was Repl.it
 #### Repl.it is a online IDE that has a live preview of the outcome of the code that i have written so i an see any errors in present time and it also helps with this high low game because the game needs a input to continue so i can also enter that to find any errors or to complete the game in live time. 
 #### It also saves your code to the cloud so you can access it at any time and you can also save it to your PC or GitHub aswell. 
+![1](https://user-images.githubusercontent.com/31927415/35562946-fe164316-05ac-11e8-8c08-8dee68d5dd00.jpg)
+
 
 ### Implementation Of An Algorithm 
 ![gfdsfb](https://user-images.githubusercontent.com/31927415/33656786-0cbd9554-da6f-11e7-815c-681f1639654e.JPG) 
