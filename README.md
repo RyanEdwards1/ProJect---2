@@ -45,7 +45,9 @@
       cout << card1 << "\n"; // Prints value of card1
     
     	cout <<1 for Higher, 2 for Lower" << "\n"; 
-    
+
+### Comparing The Two
+#### Now looking at the code and seeing if matched the Flowchart that i produced to follow and seeing if it matches. looking firstly at the box in the flow chart of randomizing the numbers then looking at the snippet of code to see the code that doe exactly that. Also it then prints out the random letter so that the player can see the number. secondly the decision boxes that allow the user to pick higher or lower. then under the flow chart you can see the code that also matches the flow chart allowing the user to pick higher or lower using 1 or 2. Overall i followed the flowchart correctly and didnt miss steps  
 
 
 ### Debugging Process
